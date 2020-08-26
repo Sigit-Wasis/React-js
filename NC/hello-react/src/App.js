@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div>
-      <h1>HELLO REACT</h1>
+      <h1>HELLO REACT JS</h1>
       <p>Belajar Fundamental React JS</p>
     </div>
   );
