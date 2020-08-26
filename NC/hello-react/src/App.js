@@ -25,7 +25,7 @@ function App() {
   return (
     <div>
       <h1>HELLO REACT</h1>
-      <p>lorem ipsum bro </p>
+      <p>Belajar Fundamental React JS</p>
     </div>
   );
 }
