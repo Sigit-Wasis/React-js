@@ -9,4 +9,6 @@ Komponen komponen seperti button, task bar, header, dan lain sebagainya bisa dig
 
 React menggunakan konsep virtual Dom, yaitu menyalin Dom yang asli. Sehingga, proses render dan performanya lebih cepat. React juga menggunakan JSX yaitu ekstensi syntax javascript yang terlihat mirip xml.
 
+Thanks You!
+
 > Referensi: Overview Materi Arkademy (Youtube)
