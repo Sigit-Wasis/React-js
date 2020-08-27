@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>Rendering Element React JS!</h1>
+      <h1>Belajar Buat Masa Depan!</h1>
     </div>
   );
 }
