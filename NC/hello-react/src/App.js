@@ -6,7 +6,7 @@ function App() {
       <h1>Rendering Element React JS!</h1>
       <h1>Belajar Buat Masa Depan!</h1>
       <h2>Hobi Ku Berbayar Bro</h2>
-      <h2>Belajar Untuk Mengajari</h2>
+      
     </div>
   );
 }
