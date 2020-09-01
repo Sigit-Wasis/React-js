@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 
-function Footer() {
+const Footer = () => {
   return (
     <div>
       <h4>Copyright Embuncode</h4>
